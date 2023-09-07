@@ -1,0 +1,14 @@
+/**
+ * This is HW3 demo class.
+ */
+public class HelloWorld {
+  /**
+   * This is the main for this project.
+   *
+   * @param args input parameters.
+   */
+  public static void main(String[] args) {
+    // TODO Auto-generated method stub
+  }
+
+}
